@@ -2,9 +2,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xml:id="sec-language-ruby">
 
-<title>Ruby</title>
-
-<para>There currently is support to bundle applications that are packaged as
+<title>Ruby</title> is support to bundle applications that are packaged as
 Ruby gems. The utility "bundix" allows you to write a
 <filename>Gemfile</filename>, let bundler create a
 <filename>Gemfile.lock</filename>, and then convert this into a nix
